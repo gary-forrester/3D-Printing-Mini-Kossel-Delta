@@ -1,4 +1,5 @@
 /**
+ * This is my experimental configuration boiler plate taken from the below copywrited info.
  * Marlin 3D Printer Firmware
  * Copyright (C) 2016 MarlinFirmware [https://github.com/MarlinFirmware/Marlin]
  *
@@ -1549,5 +1550,6 @@
   //When using an LCD, uncomment the line below to display the Filament sensor data on the last line instead of status.  Status will appear for 5 sec.
   //#define FILAMENT_LCD_DISPLAY
 #endif
+
 
 #endif // CONFIGURATION_H
